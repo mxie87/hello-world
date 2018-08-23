@@ -1,2 +1,5 @@
 # hello-world
-hello-world repository
+
+Hello All, 
+
+I am new to this. Trying to become a data scientist.
